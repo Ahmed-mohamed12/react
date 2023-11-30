@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<div className='g'>
   <BrowserRouter>
    <UserProvider>
-  <App />
+  <App /> 
    </UserProvider>
   </BrowserRouter>
   
