@@ -35,6 +35,7 @@ export default function Home() {
       <i className="fa-solid fa-arrow-up"></i>
       <Update />
       <p>jhll</p>
+      <p>nnnnnn</p>
     </>
   );
 }
