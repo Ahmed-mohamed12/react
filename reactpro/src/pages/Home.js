@@ -36,7 +36,7 @@ export default function Home() {
       <Update />
       <p>jhll</p>
       <p>nnnuuuufmMMMMMMMnnn</p>
-      <p>wwwkw.cojmt</p>
+      <p>ZZZZZZZt</p>
     </>
   );
 }
