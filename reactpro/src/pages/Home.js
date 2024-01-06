@@ -35,8 +35,8 @@ export default function Home() {
       <i className="fa-solid fa-arrow-up"></i>
       <Update />
       <p>jhll</p>
-      <p>nnnuuuumMMMMMMMnnn</p>
-      <p>wwww.comt</p>
+      <p>nnnuuuufmMMMMMMMnnn</p>
+      <p>wwwkw.cojmt</p>
     </>
   );
 }
