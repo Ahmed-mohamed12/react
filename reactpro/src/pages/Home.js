@@ -36,7 +36,7 @@ export default function Home() {
       <Update />
       <p>jhll</p>
       <p>nnnuuuufmMMMMMMMnnn</p>
-      <p>ZZZZZZZt</p>
+      <p>ZZZZZkZZt</p>
     </>
   );
 }
