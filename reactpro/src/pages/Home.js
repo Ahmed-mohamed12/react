@@ -36,7 +36,7 @@ export default function Home() {
       <Update />
       <p>jhll</p>
       <p>nnnuuuumMMMMMMMnnn</p>
-      <p>wwww.com</p>
+      <p>wwww.comt</p>
     </>
   );
 }
